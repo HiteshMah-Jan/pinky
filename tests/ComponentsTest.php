@@ -1,6 +1,8 @@
 <?php
 use PHPUnit\Framework\TestCase;
 
+$salary = PinkySalary
+
 use function Pinky\transformString;
 
 class ComponentsTest extends TestCase
